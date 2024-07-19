@@ -1,8 +1,13 @@
-# React + Vite
+# Ecommerce React App Made By Sameer Ahmed
+This is my midterm project for webdevelopment module 2 course at banoqabil institute.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/42d9459c-c566-4b5f-bb85-658a0ac2e5be)
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/ffc9bc5d-f807-4bb2-a4bf-2b86199e283e)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/94c3ae76-3f9a-480e-956f-ffbe244323ed)
+
+![image](https://github.com/user-attachments/assets/b70cba97-561d-45b5-aebe-5c9fc1733225)
+
+
+
