@@ -6,7 +6,7 @@ const SearchFilter = () => {
   const [filterPrice, setFilterPrice] = useState('');
 
   const handleSearch = () => {
-    // Implement search functionality
+    
     console.log(
       `Search for: ${searchTerm}, Category: ${filterCategory}, Price: ${filterPrice}`
     );
